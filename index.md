@@ -1,7 +1,7 @@
 ## Welcome to Neural Network display code
 
 This is a neural network that i wrote in my thesis project for dermoscopic classification problems like classify melanoma images to their own categories.
-Below i will show you the results that the neural network exports.
+Below is the results that the neural network exports.
 
 ### Images 
 
