@@ -3,6 +3,8 @@
 This is a neural network that i wrote in my thesis project for dermoscopic classification problems like classify melanoma images to their own categories.
 Below is the results that the neural network exports.
 
+### Libraries
+1.
 ### Images 
 
 
