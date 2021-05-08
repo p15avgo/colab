@@ -4,12 +4,12 @@ This is a neural network that i wrote in my thesis project for dermoscopic class
 Below is the results that the neural network exports.
 
 ### Libraries
-1. Python 3.7 and later
-2. Tensorflow 2.4 and later
-3. Keras 2.4 and later
-4. Numpy 1.19 and later
-5. Sklearn 0.22 and later
-6. Matplotlib 1.19 and later
+1. **_Python_** 3.7 and later
+2. **_Tensorflow_** 2.4 and later
+3. **_Keras_** 2.4 and later
+4. **_Numpy_** 1.19 and later
+5. **_Sklearn_** 0.22 and later
+6. **_Matplotlib_** 1.19 and later
 
 
 ### Images 
